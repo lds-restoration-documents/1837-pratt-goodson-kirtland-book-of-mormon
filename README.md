@@ -4,11 +4,11 @@
 **Status: all 619 images are transcribed, audited once against the scan and then proofread blind by a separate agent. The owner has reviewed the unresolved close calls against the scan (colon versus semicolon and similar); a full human proofread has not been done yet.** Expect remaining errors, especially colon versus semicolon and comma versus period, which are hard to tell apart in this scan.
 
 ## Files
-* `book-of-mormon-1837.md`: the whole text in a single [Markdown](#what-is-markdown) file. A `<!-- page NNN -->` comment marks where each image begins.
-* `book-of-mormon-1837.txt`: the same text as plain text, with no [Markdown](#what-is-markdown).
-* `book-of-mormon-1837-sparse.txt`: plain text of the Book of Mormon proper only, leaving out the imprint on the title page, the Preface and the testimonies.
+* [book-of-mormon-1837.md](book-of-mormon-1837.md): the whole text in a single [Markdown](#what-is-markdown) file. A `<!-- page NNN -->` comment marks where each image begins.
+* [book-of-mormon-1837.txt](book-of-mormon-1837.txt): the same text as plain text, with no [Markdown](#what-is-markdown).
+* [book-of-mormon-1837-sparse.txt](book-of-mormon-1837-sparse.txt): plain text of the Book of Mormon proper only, leaving out the imprint on the title page, the Preface and the testimonies.
 * [book-of-mormon-1837-pages/](book-of-mormon-1837-pages/): one [Markdown](#what-is-markdown) file per image of the scan (`page-001.md` to `page-619.md`). File numbers are image numbers (printed page number = image + 2 in the main text). These are the source of truth; the files above are generated from them.
-* `printer-typos.md`: a catalog of the printer's slips and misspellings in the 1837 print, with image, printed page and context (likely, not exhaustive).
+* [printer-typos.md](printer-typos.md): a catalog of the printer's slips and misspellings in the 1837 print, with image, printed page and context (likely, not exhaustive).
 
 ## What is in the 1837 edition
 * **No verse numbers**, no double columns, no footnotes and no cross-references; text in paragraphs on a single wide column, with italic chapter summaries.
