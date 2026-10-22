@@ -1,0 +1,11 @@
+<!-- image 583 -->
+**Header:** BOOK OF ETHER. | 585
+
+<!-- cont --> and countries; and it bringeth to pass the destruction of all people, for it is built up by the devil, who is the father of all lies; even that same liar who beguiled our first parents; yea, even that same liar who hath caused man to commit murder from the beginning; who hath hardened the hearts of men, that they have murdered the prophets, and stoned them, and cast them out from the beginning. Wherefore I, Moroni, am commanded to write these things, that evil may be done away, and that the time may come that satan may have no power upon the hearts of the children of men, but that they may be persuaded to do good continually, that they may come unto the fountain of all righteousness and be saved.
+
+<!-- decorative ornament (a short centered rule with a diamond-shaped swell) printed above the chapter heading -->
+## CHAPTER IV.
+
+AND now I, Moroni, proceed with my record.— Therefore behold, it came to pass that because of the secret combinations of Akish and his friends, behold they did overthrow the kingdom of Omer; nevertheless, the Lord was merciful unto Omer, and also to his sons and to his daughters, who did not seek his destruction. And the Lord warned Omer in a dream that he should depart out of the land; wherefore Omer departed out of the land with his family, and traveled many days, and came over and passed by the hill of Shim, and came over by the place where the Nephites were destroyed, and from thence eastward, and came to a place which was called Ablom, by the seashore, and there he pitched his tent, and also his sons and his daughters, and all his household, save it were Jared and his family.
+
+And it came to pass that Jared was anointed king over the people, by the hand of wickedness; and he gave unto Akish his daughter to wife. And it came to pass that Akish sought the life of his father-in-law; and he applied unto those whom he had sworn by the oath of the ancients, and they obtained the head of his father-in-law, as he sat upon his throne, giving audience to his people; for so great had been the spreading of this wicked and secret society, that it had corrupted the hearts of all the people; therefore Jared

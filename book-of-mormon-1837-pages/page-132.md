@@ -1,0 +1,12 @@
+<!-- image 132 -->
+**Header:** 134 | BOOK OF JACOB.
+
+<!-- cont --> I might testify unto you concerning the wickedness of your hearts; and also, it grieveth me that I must use so much boldness of speech, concerning you, before your wives and your children, many of whose feelings are exceeding tender, and chaste, and delicate before God, which thing is pleasing unto God; and it supposeth me that they have come up hither to hear the pleasing word of God, yea, the word which healeth the wounded soul.
+
+Wherefore, it burdeneth my soul, that I should be constrained because of the strict commandment which I have received from God, to admonish you, according to your crimes, to enlarge the wounds of those which are already wounded, instead of consoling and healing their wounds; and those which have not been wounded, instead of feasting upon the pleasing word of God, have daggers placed to pierce their souls, and wound their delicate minds. But, notwithstanding the greatness of the task, I must do according to the strict commands of God, and tell you concerning your wickedness and abominations, in the presence of the pure in heart, and the broken heart, and under the glance of the piercing eye of the Almighty God.
+
+Wherefore, I must tell you the truth, according to the plainness of the word of God. For behold, as I enquired of the Lord, thus came the word unto me, saying, Jacob, get thou up into the temple on the morrow, and declare the word which I shall give thee unto this people.
+
+And now behold, my brethren, this is the word which I declare unto you, that many of you have begun to search for gold, and for silver, and all manner of precious ores, in the which this land, which is a land of promise unto you, and to your seed, doth abound most plentifully. And the hand of providence hath smiled upon you most pleasingly, that you have obtained many riches; and because some of you have obtained more abundantly than that of your brethren, ye are lifted up in the pride of your hearts, and wear stiff necks, and high heads, because of the costliness of your apparel, and persecute your brethren, because ye suppose that ye are better than they.
+
+And now my brethren, do ye suppose that God justifieth you in this thing? Behold, I say unto you, nay. But he condemneth you, and if ye persist in these things, his judgments must speedily come unto you. O that he would shew you that he can pierce

@@ -1,0 +1,14 @@
+<!-- image 375 -->
+**Header:** BOOK OF ALMA. | 377
+
+<!-- cont --> and came over in the land of Zarahemla, and joined the people of Ammon; and the army which pursued after them, returned, having pursued after them in vain: and thus Amalickiah, by his fraud, gained the hearts of the people.
+
+And it came to pass on the morrow, he entered the city Nephi, with his armies, and took possession of the city. And now it came to pass that the queen, when she had heard that the king was slain: for Amalickiah had sent an embassy to the queen, informing her that the king had been slain by his servants; that he had pursued them with his army, but it was in vain, and they had made their escape, therefore when the queen had received this message, she sent unto Amalickiah, desiring him that he would spare the people of the city; and she also desired him that he should come in unto her; and she also desired him that he should bring witnesses with him, to testify concerning the death of the king.
+
+And it came to pass that Amalickiah took the same servant that slew the king, and all they who were with him, and went in unto the queen, unto the place where she sat; and they all testified unto her that the king was slain by his own servants; and they said, also, they have fled; does not this testify against them? And thus they satisfied the queen concerning the death of the king.
+
+And it came to pass that Amalickiah sought the favor of the queen, and took her unto him to wife; and thus by his fraud, and by the assistance of his cunning servants, he obtained the kingdom: yea, he was acknowledged king throughout all the land, among all the people of the Lamanites, who were composed of the Lamanites, and the Lemuelites, and the Ishmaelites, and all the dissenters of the Nephites, from the reign of Nephi down to the present time. Now these dissenters, having the same instruction and the same information of the Nephites; yea, having been instructed in the same knowledge of the Lord; nevertheless, it is strange to relate, not long after their dissensions, they became more hardened and impenitent, and more wild, wicked and ferocious, than the Lamanites; drinking in with the traditions of the Lamanites; giving way to indolence, and all manner of lasciviousness; yea, entirely forgetting the Lord their God.
+
+---
+
+Footer: P2

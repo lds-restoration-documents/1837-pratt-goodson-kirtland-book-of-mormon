@@ -1,0 +1,11 @@
+<!-- image 594 -->
+**Header:** 596 | BOOK OF ETHER.
+
+<!-- cont --> place which thou hast prepared. And again I remember that thou hast said that thou hast loved the world, even unto the laying down of thy life for the world, that thou mightest take it again to prepare a place for the children of men. And now I know that this love which thou hast had for the children of men, is charity; wherefore, except men shall have charity, they cannot inherit that place which thou hast prepared in the mansions of thy father. Wherefore, I know by this thing which thou hast said, that if the Gentiles have not charity, because of our weakness, that thou wilt prove them, and take away their talent, yea, even that which they have received, and give unto them who shall have more abundantly.
+
+And it came to pass that I prayed unto the Lord that he would give unto the Gentiles grace, that they might have charity. And it came to pass that the Lord said unto me, if they have not charity, it mattereth not unto thee; thou hast been faithful; wherefore thy garments shall be made clean. And because thou hast seen thy weakneess, thou shalt be made strong, even unto the sitting down in the place which I have prepared in the mansions of my Father. And now I, Moroni, bid farewell unto the Gentiles, yea, and also unto my brethren whom I love, until we shall meet before the judgment seat of Christ, where all men shall know that my garments are not spotted with your blood; and then shall ye know that I have seen Jesus, and that he hath talked with me face to face, and that he told me in plain humility, even as a man telleth another in mine own language, concerning these things; and only a few have I written, because of my weakness in writing. And now I would commend you to seek this Jesus of whom the prophets and apostles have written, that the grace of God the Father, and also the Lord Jesus Christ, and the Holy Ghost, which beareth record of them, may be, and abide in you forever. Amen.
+
+<!-- decorative ornament (a short centered rule with a diamond-shaped swell) printed above the chapter heading -->
+## CHAPTER VI.
+
+AND now I, Moroni, proceed to finish my record concerning the destruction of the people of whom I

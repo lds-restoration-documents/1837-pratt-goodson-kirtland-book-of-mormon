@@ -1,0 +1,12 @@
+<!-- image 190 -->
+**Header:** 192 | BOOK OF MOSIAH.
+
+<!-- cont --> Abinadi, that I and my people should be judged of him? or who is the Lord, that shall bring upon my people such great affliction? I command you to bring Abinadi hither, that I may slay him: for he has said these things, that he might stir up my people to anger, one with another, and to raise contentions among my people; therefore, I will slay him. Now the eyes of the people were blinded; therefore, they hardened their hearts against the words of Abinadi, and they sought from that time forward to take him. And king Noah hardened his heart against the word of the Lord; and he did not repent of his evil doings.
+
+And it came to pass that after the space of two years, that Abinadi came among them in disguise, that they knew him not, and began to prophesy among them, saying, thus has the Lord commanded me, saying: Abinadi, go and prophesy unto this my people, for they have hardened their hearts against my words; they have repented not of their evil doings; therefore, I will visit them in my anger, yea, in my fierce anger will I visit them in their iniquities and abominations; yea, wo be unto this generation. And the Lord said unto me, stretch forth thy hand, and prophesy, saying, thus saith the Lord: it shall come to pass that this generation, because of their iniquities, shall be brought into bondage, and shall be smitten on the cheek: yea, and shall be driven by men, and shall be slain; and the vultures of the air, and the dogs, yea, and the wild beasts, shall devour their flesh.
+
+And it shall come to pass that the life of king Noah shall be valued even as a garment in a hot furnace; for he shall know that I am the Lord. and it shall come to pass that I will smite this my people with sore afflictions; yea, with famine and with pestilence; and I will cause that they shall howl all the day long. Yea, and I will cause that they shall have burdens lashed upon their backs; and they shall be driven before, like a dumb ass.
+
+And it shall come to pass that I will send forth hail among them, and it shall smite them; and they shall also be smitten with the east wind: and insects shall pester their land also, and devour their grain. And they shall be smitten with a great pestilence: and all this will I do, because of their iniquities and abominations.
+
+And it shall come to pass that except they repent, I will utterly destroy them from off the face of the earth;

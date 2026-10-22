@@ -1,0 +1,12 @@
+<!-- image 431 -->
+**Header:** BOOK OF HELAMAN. | 433
+
+<!-- cont --> number of the Nephites who were slain; for behold, Moronihah had supposed that the Lamanites durst not come into the center of the land, but that they would attack the cities round about in the borders as they had hitherto done; therefore Moronihah had caused that their strong armies should maintain those parts round about by the borders. But behold, the Lamanites were not frightened according to his desire, but they had come into the center of the land, and had taken the capital city, which was the city of Zarahemla, and were marching through the most capital parts of the land, slaying the people with a great slaughter, both men, women and children, taking possession of many cities and of many strong holds. But when Moronihah had discovered this, he immediately sent forth Lehi with an army round about to head them, before they should come to the land Bountiful. And thus he did; and he did head them, before they came to the land Bountiful, and gave unto them battle, insomuch that they began to retreat back towards the land of Zarahemla. And it came to pass that Moronihah did head them in their retreat, and did give unto them battle insomuch that it became an exceeding bloody battle; yea, many were slain; and among the number who were slain, Coriantumr was also found.— And now behold the Lamanites could not retreat either way; neither on the north, nor on the south, nor on the east, nor on the west, for they were surrounded on every hand by the Nephites: And thus had Coriantumr plunged the Lamanites into the midst of the Nephites, insomuch that they were in the power of the Nephites, and he himself was slain, and the Lamanites did yield themselves into the hands of the Nephites.
+
+And it came to pass that Moronihah took possession of the city of Zarahemla again, and caused that the Lamanites who had been taken prisoners should depart out of the land in peace. And thus ended the forty and first year of the reign of the judges.
+
+And it came to pass in the forty and second year of the reign of the judges, after Moronihah had established again peace between the Nephites and the Lamanites, behold there was no one to fill the judgment seat; therefore there began to be a contention again among the people concerning who should fill the judgment seat. And it came to pass that Helaman, who was
+
+---
+
+Footer: S

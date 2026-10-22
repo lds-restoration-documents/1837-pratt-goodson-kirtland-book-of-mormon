@@ -1,0 +1,16 @@
+<!-- image 111 -->
+**Header:** SECOND BOOK OF NEPHI. | 113
+
+<!-- cont --> onciled to God; for we know that it is by grace that we are saved, after all we can do.
+
+And notwithstanding we believe in Christ, we keep the law of Moses, and look forward with steadfastness unto Christ, until the law shall be fulfilled; for, for this end was the law given; wherefore, the law hath become dead unto us, and we are made alive in Christ, because of our faith; yet we keep the law because of the commandments; and we talk of Christ, we rejoice in Christ, we preach of Christ, we prophesy of Christ, and we write according to our prophecies, that our children may know to what source they may look for a remission of their sins. Wherefore, we speak concerning the law, that our children may know the deadness of the law; and they, by knowing the deadness of the law, may look forward unto that life which is in Christ, and know for what end the law was given. And after the law is fulfilled in Christ, that they need not harden their hearts against him, when the law ought to be done away.
+
+And now behold, my people, ye are a stiffnecked people; wherefore, I have spoken plain unto you, that ye cannot misunderstand. And the words which I have spoken, shall stand as a testimony against you: for they are sufficient to teach any man the right way: for the right way is to believe in Christ and deny him not; for by denying him, ye also deny the prophets and the law.
+
+And now behold I say unto you, that the right way is to believe in Christ, and deny him not; and Christ is the Holy One of Israel: wherefore ye must bow down before him, and worship him with all your might, mind, and strength, and your whole soul; and if ye do this, ye shall in no wise be cast out. And inasmuch as it shall be expedient, ye must keep the performances and ordinances of God, until the law shall be fulfilled which was given unto Moses.
+
+And after Christ shall have risen from the dead, he shall shew himself unto you, my children, and my beloved brethren; and the words which he shall speak unto you, shall be the law which ye shall do. For behold, I say unto you, that I have beheld that many generations shall pass away, and there shall be great wars and contentions among my people. And after the Messiah shall come, there shall be signs given unto my people of his birth, and also of his death and
+
+---
+
+Footer: E2

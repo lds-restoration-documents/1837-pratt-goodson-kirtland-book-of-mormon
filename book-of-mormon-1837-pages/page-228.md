@@ -1,0 +1,11 @@
+<!-- image 228 -->
+**Header:** 230 | BOOK OF MOSIAH.
+
+<!-- cont --> delivered to him by the hand of Limhi: and this he did, because of the great anxiety of his people, for they were desirous beyond measure, to know concerning those people who had been destroyed. And now he translated them by the means of those two stones which were fastened into the two rims of a bow. Now these things were prepared from the beginning, and were handed down from generation to generation, for the purpose of interpreting languages; and they have been kept and preserved by the hand of the Lord, that he should discover to every creature who should possess the land, the iniquities and abominations of his people: and whosoever has these things, is called seer, after the manner of old times.
+
+Now after Mosiah had finished translating these records, behold, it gave an account of the people who were destroyed, from the time that they were destroyed, back to the building of the great tower, at the time the Lord confounded the language of the people; and they were scattered abroad upon the face of all the earth, yea, and even from that time until the creation of Adam. Now this account did cause the people of Mosiah to mourn exceedingly; yea, they were filled with sorrow: nevertheless it gave them much knowledge, in the which they did rejoice. And this account shall be written hereafter: for behold, it is expedient that all people should know the things which are written in this account.
+
+<!-- decorative ornament (a short centered rule with a diamond-shaped swell) printed above the chapter heading -->
+## CHAPTER XIII.
+
+AND now, as I said unto you, that after king Mosiah had done these things, he took the plates of brass, and all the things which he had kept, and conferred them upon Alma, who was the son of Alma; yea, all the records, and also the interpreters, and conferred them upon him, and commanded him that he should keep and preserve them, and also keep a record of the people, handing them down from one generation to another, even as they had been handed down from the time that Lehi left Jerusalem. Now when Mosiah had done this, he sent out throughout all the land, among all the people, desiring to know their will con-

@@ -1,0 +1,16 @@
+<!-- image 023 -->
+**Header:** FIRST BOOK OF NEPHI. | 25
+
+<!-- cont --> state, and ever would be, save they should rely on this Redeemer.
+
+And he spake also, concerning a prophet, who should come before the Messiah, to prepare the way of the Lord; yea, even he should go forth and cry in the wilderness, prepare ye the way of the Lord, and make his paths straight; for there standeth one among you whom ye know not; and he is mightier than I, whose shoe's latchet I am not worthy to unloose. And much spake my father concerning this thing.
+
+And my father said he should baptise in Bethabary, beyond Jordan; and he also said he should baptise with water; even that he should baptise the Messiah with water. And after he had baptised the Messiah with water, he should behold and bear record, that he had baptised the Lamb of God, who should take away the sins of the world.
+
+And it came to pass after my father had spoken these words, he spake unto my brethren concerning the gospel which should be preached among the Jews; and also concerning the dwindling of the Jews in unbelief. And after they had slain the Messiah who should come, and after he had been slain, he should rise from the dead, and should make himself manifest, by the Holy Ghost, unto the Gentiles.
+
+Yea, even my father spake much concerning the Gentiles, and also concerning the house of Israel, that they should be compared like unto an olive tree, whose branches should be broken off, and should be scattered upon all the face of the earth. Wherefore, he said it must needs be that we should be led with one accord, into the land of promise unto the fulfilling of the word of the Lord, that we should be scattered upon all the face of the earth. And after the house of Israel should be scattered, they should be gathered together again; or, in fine, after the Gentiles had received the fulness of the gospel, the natural branches of the olive tree, or the remnants of the house of Israel, should be grafted in, or come to the knowledge of the true Messiah, their Lord and their Redeemer. And after this manner of language did my father prophesy and speak unto my brethren; and also many more things, which I do not write in this book; for I have written as many of them as were expedient for me in mine other book. And all these things of which I have spoken, were
+
+---
+
+Footer: B

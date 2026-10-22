@@ -1,0 +1,11 @@
+<!-- image 610 -->
+**Header:** 612 | BOOK OF MORONI.
+
+<!-- cont --> joiceth in the truth, beareth all things, believeth all things, hopeth all things, endureth all things; wherefore, my beloved brethren, if ye have not charity, ye are nothing, for charity never faileth. Wherefore, cleave unto charity, which is the greatest of all, for all things must fail; but charity is the pure love of Christ and it endureth forever; and whoso is found possessed of it at the last day, it shall be well with them. Wherefore, my beloved brethren, pray unto the Father with all the energy of heart, that ye may be filled with this love which he hath bestowed upon all who are true followers of his Son Jesus Christ, that ye may become the sons of God, that when he shall appear, we shall be like him; for we shall see him as he is, that we may have this hope, that we may be purified even as he is pure. Amen.
+
+<!-- decorative ornament (a short centered rule with a diamond-shaped swell) printed above the chapter heading -->
+## CHAPTER VIII.
+
+AN epistle of my father Mormon, written to me Moroni; and it was written unto me soon after my calling to the ministry. And on this wise did he write unto me, saying, my beloved son Moroni, I rejoice exceedingly that your Lord Jesus Christ hath been mindful of you, and hath called you to his ministry, and to his holy work. I am mindful of you always in my prayers, continually praying unto God the Father in the name of his holy child, Jesus, that he, through his infinite goodness and grace, will keep you through the endurance of faith on his name to the end.
+
+And now my son I speak unto you concerning that which grieveth me exceedingly; for it grieveth me that there should disputations rise among you. For if I have learned the truth, there has been disputations among you concerning the baptism of your little children. And now my son, I desire that ye should labor diligently, that this gross error should be removed from among you; for, for this intent I have written this epistle. For immediately after I had learned these things of you, I inquired of the Lord concerning the matter. And the word of the Lord came to me by the power of the Holy Ghost, saying, listen to the words of Christ, your Redeemer, your Lord and your

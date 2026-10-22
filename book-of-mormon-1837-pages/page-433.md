@@ -1,0 +1,11 @@
+<!-- image 433 -->
+**Header:** BOOK OF HELAMAN. | 435
+
+<!-- cont --> man sent forth to take them, they could no where be found. And more of this Gadianton shall be spoken hereafter. And thus ended the forty and second year of the reign of the judges over the people of Nephi.— And behold, in the end of this book, ye shall see that, this Gadianton did prove the overthrow, yea, almost the entire destruction of the people of Nephi. Behold I do not mean the end of the book of Helaman, but I mean the end of the book of Nephi, from which I have taken all the account which I have written.
+
+<!-- decorative ornament (a short centered rule with a diamond-shaped swell) printed above the chapter heading -->
+## CHAPTER II.
+
+AND now it came to pass in the forty and third year of the reign of the judges, there was no contention among the people of Nephi, save it were a little pride which was in the church, which did cause some little dissensions among the people, which affairs were settled in the ending of the forty and third year. And there was no contention among the people in the forty and fourth year; neither was there much contention in the forty and fifth year. And it came to pass in the forty and sixth, yea, there were much contentions and many dissensions; in the which there were an exceeding great many who departed out of the land of Zarahemla, and went forth unto the land northward, to inherit the land; and they did travel to an exceeding great distance, insomuch that they came to large bodies of water, and many rivers; yea, and even they did spread forth into all parts of the land, into whatever parts it had not been rendered desolate, and without timber, because of the many inhabitants who had before inherited the land. And now no part of the land was desolate, save it were for timber, &c.; but because of the greatness of the destruction of the people who had before inhabited the land, it was called desolate. And there being but little timber upon the face of the land, nevertheless the people who went forth, became exceeding expert in the working of cement; therefore they did build houses of cement, in the which they did dwell.
+
+And it came to pass that they did multiply and spread, and did go forth from the land southward to

@@ -1,0 +1,408 @@
+[
+ {
+  "p": 31,
+  "n": "most precious; and also many",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"precious\"?"
+ },
+ {
+  "p": 33,
+  "n": "seed of thy father; yea",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"father\"?"
+ },
+ {
+  "p": 36,
+  "n": "spoken unto them; for he truly",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"them\"?"
+ },
+ {
+  "p": 39,
+  "n": "of their works; and if",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"works\"?"
+ },
+ {
+  "p": 39,
+  "n": "the righteous; and the brightness",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"righteous\"?"
+ },
+ {
+  "p": 42,
+  "n": "because of my word; for I",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"word\"?"
+ },
+ {
+  "p": 102,
+  "n": "carriages; they are gone over",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"carriages\"?"
+ },
+ {
+  "p": 105,
+  "n": "destroy her speedily; yea",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"speedily\"?"
+ },
+ {
+  "p": 111,
+  "n": "because of our faith; yet we keep",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"faith\"?"
+ },
+ {
+  "p": 180,
+  "n": "hemla; and",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"Hemla\"?"
+ },
+ {
+  "p": 180,
+  "n": "mind: if ye do",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"mind\"?"
+ },
+ {
+  "p": 222,
+  "n": "they called: and if",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"called\"?"
+ },
+ {
+  "p": 222,
+  "n": "before me: and then",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"me\"?"
+ },
+ {
+  "p": 229,
+  "n": "upon him: neither would Aaron",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"him\"?"
+ },
+ {
+  "p": 249,
+  "n": "I am called: yea",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"called\"?"
+ },
+ {
+  "p": 249,
+  "n": "sins of the world; yea",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"world\"?"
+ },
+ {
+  "p": 252,
+  "n": "you; nevertheless",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"you\"?"
+ },
+ {
+  "p": 264,
+  "n": "iniquity; that",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"iniquity\"?"
+ },
+ {
+  "p": 318,
+  "n": "the brother: yea",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"brother\"?"
+ },
+ {
+  "p": 319,
+  "n": "glory in it; I do not",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"it\"?"
+ },
+ {
+  "p": 320,
+  "n": "kingdom of God: yea",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"God\"?"
+ },
+ {
+  "p": 376,
+  "n": "mighty man: he was",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"man\"?"
+ },
+ {
+  "p": 376,
+  "n": "understanding; yea",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"understanding\"?"
+ },
+ {
+  "p": 378,
+  "n": "Lamanites; yea, and in fine",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"Lamanites\"?"
+ },
+ {
+  "p": 385,
+  "n": "most sacred; therefore",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"sacred\"?"
+ },
+ {
+  "p": 398,
+  "n": "being; neither",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"being\"?"
+ },
+ {
+  "p": 398,
+  "n": "as well as you: and if it so be",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"you\"?"
+ },
+ {
+  "p": 408,
+  "n": "our whole army: yea",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"army\"?"
+ },
+ {
+  "p": 437,
+  "n": "Bountiful; and the Nephites",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"Bountiful\"?"
+ },
+ {
+  "p": 437,
+  "n": "east; it being",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"east\"?"
+ },
+ {
+  "p": 438,
+  "n": "over them; therefore",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"them\"?"
+ },
+ {
+  "p": 450,
+  "n": "unto me: therefore",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"me\"?"
+ },
+ {
+  "p": 485,
+  "n": "Nephites: for it",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"Nephites\"?"
+ },
+ {
+  "p": 489,
+  "n": "before God: and thus",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"God\"?"
+ },
+ {
+  "p": 502,
+  "n": "saved; and they are they",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"saved\"?"
+ },
+ {
+  "p": 547,
+  "n": "Aaron; and he came",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"Aaron\"?"
+ },
+ {
+  "p": 551,
+  "n": "good or evil; and also",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"evil\"?"
+ },
+ {
+  "p": 557,
+  "n": "state; and he doeth",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"state\"?"
+ },
+ {
+  "p": 562,
+  "n": "hangeth over you; and the time",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"you\"?"
+ },
+ {
+  "p": 564,
+  "n": "granted him: and this promise",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"him\"?"
+ },
+ {
+  "p": 564,
+  "n": "every creature: and he that believeth",
+  "cur": ":",
+  "alt": ";",
+  "q": "colon or semicolon after \"creature\"?"
+ },
+ {
+  "p": 582,
+  "n": "Akish; wherefore",
+  "cur": ";",
+  "alt": ":",
+  "q": "colon or semicolon after \"Akish\"?"
+ },
+ {
+  "p": 315,
+  "n": "brethren, which was established",
+  "cur": ",",
+  "alt": ".",
+  "q": "comma or period after \"brethren\" (next word lowercase)?"
+ },
+ {
+  "p": 342,
+  "n": "unto me. behold, many",
+  "cur": ".",
+  "alt": ",",
+  "q": "period or comma after \"me\" (next word lowercase)?"
+ },
+ {
+  "p": 360,
+  "n": "wilderness, Moroni sent",
+  "cur": ",",
+  "alt": ";",
+  "q": "comma, or semicolon, after \"wilderness\" (speck above the mark)?"
+ },
+ {
+  "p": 418,
+  "n": "whom, I fear",
+  "cur": ",",
+  "alt": ".",
+  "q": "comma or period after \"whom\" (tight against the capital I)?"
+ },
+ {
+  "p": 425,
+  "n": "his son, whose name",
+  "cur": ",",
+  "alt": ";",
+  "q": "comma or semicolon after \"son\"?"
+ },
+ {
+  "p": 573,
+  "n": "unbelief. and there is none",
+  "cur": ".",
+  "alt": ",",
+  "q": "period or comma after \"unbelief\" (next word lowercase)?"
+ },
+ {
+  "p": 127,
+  "n": "speak the words of Christ. Wherefore, I",
+  "cur": ",",
+  "alt": ".",
+  "q": "comma or period after \"Wherefore\" (a capital I follows)?"
+ },
+ {
+  "p": 284,
+  "n": "they were comforted, And the Lord",
+  "cur": ",",
+  "alt": ".",
+  "q": "comma or period after \"comforted\" (wide space, capital \"And\" follows)?"
+ },
+ {
+  "p": 316,
+  "n": "land of *Zarahemla,* and came",
+  "cur": "italic",
+  "alt": "roman",
+  "q": "is the first \"Zarahemla,\" italic or roman?"
+ },
+ {
+  "p": 465,
+  "n": "city of *Zarahemla;* for",
+  "cur": "italic",
+  "alt": "roman",
+  "q": "is \"Zarahemla;\" italic or roman?"
+ },
+ {
+  "p": 240,
+  "n": "their slings, &c.",
+  "cur": "space",
+  "alt": "no space",
+  "q": "is there a visible space after the comma in \"slings, &c.\" (and \"dark, according\")?"
+ },
+ {
+  "p": 316,
+  "n": "substance to assist",
+  "cur": "sub-stance joined",
+  "alt": "hyphen kept",
+  "q": "the mark at the line end after \"sub\": hyphen (word broken) or period?"
+ },
+ {
+  "p": 388,
+  "n": "numberless boasts",
+  "cur": "boasts",
+  "alt": "hoasts",
+  "q": "is it \"boasts\" (worn b) or a printed \"hoasts\"?"
+ },
+ {
+  "p": 451,
+  "n": "that God gave power unto one man",
+  "cur": "no comma",
+  "alt": "comma after God",
+  "q": "is there a faint mark after \"God\"?"
+ },
+ {
+  "p": 359,
+  "n": "which was girded about",
+  "cur": "no mark",
+  "alt": "bracket-like mark",
+  "q": "is there a printed mark after \"girded\", or only a speck?"
+ },
+ {
+  "p": 613,
+  "n": "",
+  "cur": "no footer",
+  "alt": "footer mark",
+  "q": "is there a signature mark at the bottom centre of the page?"
+ }
+]

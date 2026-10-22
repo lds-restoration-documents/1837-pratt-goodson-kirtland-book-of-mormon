@@ -1,0 +1,11 @@
+<!-- image 226 -->
+**Header:** 228 | BOOK OF MOSIAH.
+
+<!-- cont --> that which had been spoken of by our fathers; but own that they may foresee and that he will come, and that he remembereth every creature of his creating, he will make himself manifest unto all; yea, every knee shall bow, and every tongue confess before him. Yea, even at the last day, when all men shall stand to be judged of him, then shall they confess that he is God; then shall they confess, who live without God in the world, that the judgment of an everlasting punishment is just upon them; and they shall quake, and tremble, and shrink beneath the glance of his all-searching eye.
+
+And now it came to pass that Alma began from this time forward, to teach the people, and those who were with Alma at the time the angel appeared unto them: travelling round about through all the land, publishing to all the people the things which they had heard and seen, and preaching the word of God in much tribulation, being greatly persecuted by those who were unbelievers, being smitten by many of them; but notwithstanding all this, they did impart much consolation to the church, confirming their faith, and exhorting them with long suffering and much travail, to keep the commandments of God. And four of them were the sons of Mosiah; and their names were Ammon, and Aaron, and Omner, and Himni: these were the names of the sons of Mosiah. And they travelled throughout all the land of Zarahemla, and among all the people who were under the reign of king Mosiah, zealously striving to repair all the injuries which they had done to the church; confessing all their sins, and publishing all the things which they had seen, and explaining the prophecies and the scriptures to all who desired to hear them: and thus they were instruments in the hands of God, in bringing many to the knowledge of the truth, yea, to the knowledge of their Redeemer. And how blessed are they! For they did publish peace; they did publish good tidings of good; and they did declare unto the people that the Lord reigneth.
+
+<!-- decorative ornament (a short centered rule with a diamond-shaped swell) printed above the chapter heading -->
+## CHAPTER XII.
+
+Now it came to pass that after the sons of Mosiah had done all these things, they took a small number

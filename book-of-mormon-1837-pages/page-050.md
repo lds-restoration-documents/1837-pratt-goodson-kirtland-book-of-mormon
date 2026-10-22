@@ -1,0 +1,12 @@
+<!-- image 050 -->
+**Header:** 52 | FIRST BOOK OF NEPHI.
+
+<!-- cont --> ceedingly, lest the Lord should be angry with us, and smite us, because of our iniquity, that we should be swallowed up in the depths of the sea; wherefore, I, Nephi, began to speak to them with much soberness; but behold, they were angry with me, saying, we will not that our younger brother shall be a ruler over us.
+
+And it came to pass that Laman and Lemuel did take me and bind me with cords, and they did treat me with much harshness; nevertheless, the Lord did suffer it, that he might shew forth his power, unto the fulfilling of his word wich he had spoken, concerning the wicked.
+
+And it came to pass that after they had bound me, insomuch that I could not move, the compass, which had been prepared of the Lord, did cease to work; wherefore, they knew not whither they should steer the ship, insomuch, that there arose a great storm, yea, a great and terrible tempest; and we were driven back upon the waters for the space of three days; and they began to be frightened exceedingly, lest they should be drowned in the sea: nevertheless, they did not loose me. And on the fourth day which we had been driven back, the tempest began to be exceeding sore.
+
+And it came to pass that we were about to be swallowed up in the depths of the sea. And after we had been driven back upon the waters for the space of four days, my brethren began to see that the judgements of God were upon them, and that they must perish, save that they should repent of their iniquities; wherefore, they came unto me and loosed the bands which were upon my wrists, and behold, they had swollen exceedingly; and also mine ancles were much swollen, and great was the soreness thereof. Nevertheless, I did look unto my God, and I did praise him all the day long; and I did not murmur against the Lord, because of mine afflictions.
+
+Now, my father Lehi, had said many things unto them, and also unto the sons of Ishmael; but behold, they did breathe out much threatnings against any one that should speak for me; and my parents being stricken in years, and having suffered much grief because of their children, they were brought down, yea, even upon their sick beds. Because of their grief, and much sorrow, and the iniquity of my brethren, they were brought near even to be carried out of this time, to meet their God; yea, their grey hairs were about to

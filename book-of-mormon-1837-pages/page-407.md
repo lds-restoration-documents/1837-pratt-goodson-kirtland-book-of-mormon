@@ -1,0 +1,12 @@
+<!-- image 407 -->
+**Header:** BOOK OF ALMA. | 409
+
+<!-- cont --> behold, we were strong; yea, and we had also a plenty of provisions brought unto us.
+
+And it came to pass that it was our desire to wage a battle with the army which was placed to protect the city Cumeni. And now behold, I will shew unto you that we soon accomplished our desire; yea, with our strong force, or with a part of our strong force, we did surround, by night, the city Cumeni, a little before they were to receive a supply of provisions.— And it came to pass that we did camp round about the city for many nights; but we did sleep upon our swords, and keep guards, that the Lamanites could not come upon us by night, and slay us, which they attempted many times; but as many times as they attempted this, their blood was spilt. At length their provisions did arrive, and they were about to enter the city by night. And we, instead of being Lamanites, were Nephites; therefore, we did take them and their provisions. And notwithstanding the Lamanites being cut off from their support after this manner, they were still determined to maintain the city; therefore it became expedient that we should take those provisions and send them to Judea and our prisoners to the land of Zarahemla.
+
+And it came to pass that not many days had passed away, before the Lamanites began to lose all hopes of succor; therefore they yielded up the city into our hands; and thus we had accomplished our designs, in obtaining the city Cumeni. But it came to pass that our prisoners were so numerous, that notwithstanding the enormity of our numbers, we were obliged to employ all our force to keep them, or to put them to death. For behold, they would break out in great numbers, and would fight with stones, and with clubs, or whatsoever things they could get into their hands, insomuch that we did slay upwards of two thousand of them, after they had surrendered themselves prisoners of war; therefore it became expedient for us, that we should put an end to their lives, or guard them, sword in hand, down to the land of Zarahemla; and also our provisions were not any more than sufficient for our own people, notwithstanding that which we had taken from the Lamanites. And now, in those critical circumstances, it became a very serious matter to determine concerning these prisoners of war; nevertheless, we did resolve to send them down to the
+
+---
+
+Footer: R

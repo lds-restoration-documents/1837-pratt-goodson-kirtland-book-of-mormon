@@ -1,0 +1,12 @@
+<!-- image 143 -->
+**Header:** BOOK OF JACOB. | 145
+
+<!-- cont --> preserve, to have laid up fruit thereof, against the season, unto mine own self. But behold, they have become like unto the wild olive tree; and they are of no worth, but to be hewn down and cast into the fire: and it grieveth me that I should lose them. But what could I have done more in my vineyard? Have I slackened mine hand, that I have not nourished it? Nay; I have nourished it, and I have digged about it, and I have pruned it, and I have dunged it; and I have stretched forth mine hand almost all the day long; and the end draweth nigh. And it grieveth me that I should hew down all the trees of my vineyard, and cast them into the fire, that they should be burned. Who is it that has corrupted my vineyard?
+
+And it came to pass that the servant, said unto his master, is it not the loftiness of thy vineyard? Has not the branches thereof overcome the roots, which are good? And because the branches have overcome the roots thereof, behold, they grew faster than the strength of the roots taking strength unto themselves. Behold, I say, is not this the cause that the trees of thy vineyard have become corrupted?
+
+And it came to pass that the Lord of the vineyard said unto the servant, let us go to, and hew down the trees of the vineyard, and cast them into the fire, that they shall not cumber the ground of my vineyard; for I have done all; what could I have done more for my vineyard? But behold, the servant said unto the Lord of the vineyard, spare it a little longer. And the Lord said, yea, I will spare it a little longer: for it grieveth me that I should lose the trees of my vineyard. Wherefore let us take of the branches of these which I have planted in the nethermost parts of my vineyard, and let us graft them into the tree from whence they came; and let us pluck from the tree those branches whose fruit is most bitter, and graft in the natural branches of the tree in the stead thereof. And this will I do, that the tree may not perish, that perhaps I may preserve unto myself the roots thereof, for mine own purpose. And behold, the roots of the natural branches of the tree which I planted whithersoever I would, are yet alive; wherefore, that I may preserve them also, for mine own purpose, I will take of the branches of this tree, and I will graft them in unto them. Yea, I will graft in unto them the branches of their mother tree, that I may preserve the
+
+---
+
+Footer: G

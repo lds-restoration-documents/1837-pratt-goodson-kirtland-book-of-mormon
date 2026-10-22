@@ -1,0 +1,12 @@
+<!-- image 008 -->
+**Header:** 10 | FIRST BOOK OF NEPHI.
+
+<!-- cont --> the shore of the Red Sea: and he travelled in the wilderness in the borders which are nearer the Red Sea; and he did travel in the wilderness with his family, which consisted of my mother, Sariah, and my elder brothers, who were Laman, Lemuel and Sam.
+
+And it came to pass that when he had travelled three days in the wilderness, he pitched his tent in a valley by the side of a river of water. And it came to pass that he built an altar of stones, and made an offering unto the Lord, and gave thanks unto the Lord our God. And it came to pass that he called the name of the river Laman, and it emptied into the Red Sea; and the valley was in the borders near the mouth thereof.
+
+And when my father saw that the waters of the river emptied into the fountain of the Red Sea, he spake unto Laman, saying, O that thou mightest be like unto this river, continually running into the fountain of all righteousness. And he also spake unto Lemuel: O that thou mightest be like unto this valley, firm, and steadfast, and immovable in keeping the commandments of the Lord. Now this he spake because of the stiffneckedness of Laman and Lemuel; for behold they did murmur in many things against their father, because he was a visionary man, and had led them out of the land of Jerusalem, to leave the land of their inheritance, and their gold, and their silver, and their precious things, to perish in the wilderness. And this they said he had done because of the foolish imaginations of his heart. And thus Laman and Lemuel, being the eldest, did murmur against their father. And they did murmur because they knew not the dealings of that God who had created them. Neither did they believe that Jerusalem, that great city, could be destroyed according to the words of the prophets.— And they were like unto the Jews, who were at Jerusalem, who sought to take away the life of my father.
+
+And it came to pass that my father did speak unto them in the valley of Lemuel, with power, being filled with the spirit, until their frames did shake before him. And he did confound them, that they durst not utter against him; wherefore they did as he commanded them. And my father dwelt in a tent.
+
+And it came to pass that I, Nephi, being exceeding young, nevertheless being large in stature, and also having great desires to know of the mysteries of God, wherefore I did cry unto the Lord; and behold he did

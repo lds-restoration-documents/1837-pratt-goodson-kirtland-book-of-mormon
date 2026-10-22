@@ -1,0 +1,11 @@
+<!-- image 187 -->
+**Header:** BOOK OF MOSIAH. | 189
+
+And now I, Zeniff, after having told all these things unto my people concerning the Lamanites, I did stimulate them to go to battle with their might, putting their trust in the Lord; therefore, we did contend with them, face to face. And it came to pass that we did drive them again out of our land; and we slew them with a great slaughter, even so many that we did not number them.
+
+And it came to pass that we returned again to our own land, and my people again began to tend their flocks, and to till their ground. And now, I being old, did confer the kingdom upon one of my sons; therefore, I say no more. And may the Lord bless my people.— Amen.
+
+<!-- decorative ornament (a short centered rule with a diamond-shaped swell) printed above the chapter heading -->
+## CHAPTER VII.
+
+AND now it came to pass that Zeniff conferred the kingdom upon Noah, one of his sons; therefore Noah began to reign in his stead; and he did not walk in the ways of his father. For behold, he did not keep the commandments of God, but he did walk after the desires of his own heart. And he had many wives and concubines. And he did cause his people to commit sin, and do that which was abominable in the sight of the Lord. Yea, and they did commit whoredoms, and all manner of wickedness. And he laid a tax of one fifth part of all they possessed; a fifth part of their gold and of their silver, and a fifth part of their ziff, and of their copper, and of their brass and their iron; and a fifth part of their fatlings; and also, a fifth part of all their grain. And all this did he take, to support himself, and his wives, and his concubines, and also, his priests, and their wives, and their concubines; thus he had changed the affairs of the kingdom. For he put down all the priests that had been consecrated by his father, and consecrated new ones in their stead, such as were lifted up in the pride of their hearts.— Yea, and thus they were supported in their laziness, and in their idolatry, and in their whoredoms, by the taxes which king Noah had put upon his people; thus did the people labor exceedingly, to support iniquity. Yea, and they also became idolatrous, because they

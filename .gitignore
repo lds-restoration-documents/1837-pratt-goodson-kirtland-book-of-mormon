@@ -1,0 +1,6 @@
+work/
+__pycache__/
+.DS_Store
+source/
+_AllFiles.zip
+*.pdf

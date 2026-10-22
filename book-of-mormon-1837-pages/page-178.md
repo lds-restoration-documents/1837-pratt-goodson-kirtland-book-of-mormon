@@ -1,0 +1,12 @@
+<!-- image 178 -->
+**Header:** 180 | BOOK OF MOSIAH.
+
+<!-- cont --> them. And he said unto them, behold, I am Limhi, the son of Noah, who was the son of Zeniff, who came up out of the land of Zarahemla to inherit this land, which was the land of their fathers, who was made a king by the voice of the people. And now, I desire to know the cause whereby ye were so bold as to come near the walls of the city, when I, myself, was with my guards, without the gate? And now, for this cause have I suffered that ye should be preserved, that I might inquire of you, or else I should have caused that my guards should have put you to death. Ye are permitted to speak.
+
+And now, when Ammon saw that he was permitted to speak, he went forth and bowed himself before the king; and rising again he said, O King, I am very thankful before God this day, that I am yet alive, and am permitted to speak; and I will endeavor to speak with boldness: for I am assured that if ye had known me, ye would not have suffered that I should have wore these bands. For I am Ammon, and am a descendant of Zarahemla, and have come up out of the land of Zarahemla, to inquire concerning our brethren, whom Zeniff brought up out of that land.
+
+And now, it came to pass that after Limhi had heard the words of Ammon, he was exceeding glad, and said, now, I know of a surety that my brethren who were in the land of Zarahemla, are yet alive.— And now, I will rejoice; and on the morrow, I will cause that my people shall rejoice also. For behold, we are in bondage to the Lamanites, and are taxed with a tax which is grievous to be borne. And now, behold, our brethren will deliver us out of our bondage, or out of the hands of the Lamanites, and we will be their slaves: for it is better that we be slaves to the Nephites, than to pay tribute to the king of the Lamanites.
+
+And now, king Limhi commanded his guards that they should no more bind Ammon, nor his brethren, but caused that they should go to the hill which was north of Shilom, and bring their brethren into the city, that thereby they might eat, and drink, and rest themselves from the labors of their journey; for they had suffered many things: they had suffered hunger, thirst, and fatigue.
+
+And now, it came to pass on the morrow, that king Limhi sent a proclamation among all his people, that thereby they might gather themselves together to the

@@ -1,0 +1,12 @@
+<!-- image 327 -->
+**Header:** BOOK OF ALMA. | 329
+
+<!-- cont --> among the Zoramites, to preach unto them the word.
+
+Now the Zoramites were dissenters from the Nephites; therefore they had the word of God preached unto them. But they had fallen into great errors, for they would not observe to keep the commandments of God, and his statutes, according to the law of Moses; neither would they observe the performances of the church, to continue in prayer and supplication to God daily, that they might not enter into temptation; yea, in fine, they did pervert the ways of the Lord in very many instances; therefore, for this cause, Alma and his brethren went into the land, to preach the word unto them.
+
+Now when they had come into the land, behold, to their astonishment, they found that the Zoramites had built synagogues, and that they did gather themselves together on one day of the week, which day they did call the day of the Lord; and they did worship after a manner which Alma and his brethren had never beheld; for they had a place built up in the centre of their synagogue, a place for standing, which was high above the head; and the top thereof would only admit one person. Therefore, whosoever desired to worship, must go forth and stand upon the top thereof, and stretch forth his hands towards, heaven; and cry with a loud voice, saying: Holy, holy God; we believe that thou art God, and we believe that thou art holy, and that thou wast a spirit, and that thou art a spirit, and that thou wilt be a spirit forever. Holy God, we believe that thou hast separated us from our brethren; and we do not believe in the tradition of our brethren, which was handed down to them by the childishness of their fathers; but we believe that thou hast elected us to be thy holy children; and also thou hast made it known unto us that there shall be no Christ; but thou art the same, yesterday, to-day, and forever; and thou hast elected us, that we shall be saved, whilst all around us are elected to be cast by thy wrath down to hell; for the which holiness, O God, we thank thee; and we also thank thee that thou hast elected us, that we may not be led away after the foolish traditions of our brethren, which doth bind them down to a belief of Christ, which doth lead their hearts to wander far from thee, our God. And again: We thank thee, O God, that we are a chosen and a holy people. Amen.
+
+---
+
+Footer: N2

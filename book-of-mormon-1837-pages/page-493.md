@@ -1,0 +1,12 @@
+<!-- image 493 -->
+**Header:** BOOK OF NEPHI. | 495
+
+<!-- cont --> the prophets, and did cast them out from among them.
+
+And it came to pass that Nephi, having been visited by angels, and also by the voice of the Lord, therefore having seen angels, and being eye witness, and having had power given unto him that he might know concerning the ministry of Christ, and also being eye witness to their quick return from righteousness unto their wickedness and abominations; therefore, being grieved for the hardness of their hearts, and the blindness of their minds, went forth among them in that same year, and began to testify boldly, repentance and remission of sins through faith on the Lord Jesus Christ. And he did minister many things unto them; and all of them cannot be written, and a part of them would not suffice; therefore they are not written in this book. And Nephi did minister with power and with great authority.
+
+And it came to pass that they were angry with him, even because he had greater power than they, for it were not possible that they could disbelieve his words, for so great was his faith on the Lord Jesus Christ, that angels did minister unto him daily: and in the name of Jesus did he cast out devils and unclean spirits; and even his brother did he raise from the dead, after he had been stoned and suffered death by the people; and the people saw it, and did witness of it, and were angry with him, because of his power; and he did also do many more miracles, in the sight of the people, in the name of Jesus.
+
+And it came to pass that the thirty and first year did pass away, and there were but few who were converted unto the Lord; but as many as were converted, did truly signify unto the people that they had been visited by the power and spirit of God, which was in Jesus Christ, in whom they believed. And as many as had devils cast out from them, and were healed of their sicknesses and their infirmities, did truly manifest unto the people that they had been wrought upon by the spirit of God, and had been healed; and they did shew forth signs also, and did do some miracles among the people.
+
+Thus passed away the thirty and second year also. And Nephi did cry unto the people in the commencement of the thirty and third year; and he did preach unto them repentance and remission of sins. Now I would have you to remember also, that there were
