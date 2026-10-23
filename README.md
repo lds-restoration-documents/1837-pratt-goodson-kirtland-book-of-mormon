@@ -1,8 +1,6 @@
 # 1837 Pratt & Goodson Kirtland Book of Mormon
 [Markdown](#what-is-markdown) & Plain Text extractions of the content of the 1837 (second) edition of the Book of Mormon, printed at Kirtland, Ohio, by O. Cowdery & Co. for P. P. Pratt and J. Goodson. Extracted using AI.
 
-**Status: all 619 images are transcribed, audited once against the scan and then proofread blind by a separate agent. The owner has reviewed the unresolved close calls against the scan (colon versus semicolon and similar); a full human proofread has not been done yet.** Expect remaining errors, especially colon versus semicolon and comma versus period, which are hard to tell apart in this scan.
-
 ## Files
 * [book-of-mormon-1837.md](book-of-mormon-1837.md): the whole text in a single [Markdown](#what-is-markdown) file. A `<!-- page NNN -->` comment marks where each image begins.
 * [book-of-mormon-1837.txt](book-of-mormon-1837.txt): the same text as plain text, with no [Markdown](#what-is-markdown).
@@ -28,6 +26,8 @@ Markdown is a simple way of writing formatted text using plain characters, such 
 
 ## Artificial Intelligence
 Extracted with Claude Code from Anthropic using the Sonnet 5.5 model. Each page is transcribed from images of the scan (there is no text layer or OCR), then checked a second time against the scan by a separate AI agent. A third check by another agent working blind has been done, and the close calls it left open were then decided by the owner from the scan. The text is meant to show what the page shows, so printer's spellings and errors, punctuation, hyphenation and paragraphing are kept. A few things are deliberately **not** reproduced: the thin space the type may put before `;`, `:`, `?` and `!`, and ink specks, stains and bleed-through that are not letters or punctuation.
+
+**Status: all 619 images are transcribed, audited once against the scan and then proofread blind by a separate agent. The owner has reviewed the unresolved close calls against the scan (colon versus semicolon and similar); a full human proofread has not been done yet.** Expect remaining errors, especially colon versus semicolon and comma versus period, which are hard to tell apart in this scan.
 
 **This is an AI transcription and has not been proofread by a person.** For anything that matters, check the scan. See [transcription-notes.md](transcription-notes.md) for the details.
 
