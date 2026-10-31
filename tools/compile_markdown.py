@@ -12,10 +12,50 @@ Usage:  python3 tools/compile_markdown.py [--pages-dir DIR] [--out FILE]
 """
 import argparse
 import glob
+import datetime
 import re
+import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+
+FRONTMATTER = """---
+title: The Book of Mormon (Kirtland, 1837)
+translator: Joseph Smith Jr.
+publisher: O. Cowdery & Co. for P. P. Pratt and J. Goodson
+place: Kirtland, Ohio
+publication_year: 1837
+source_scan: https://archive.org/details/BookOfMormon1837KirtlandEdition
+transcription_method: AI-assisted transcription from page images (Claude); one audit and one blind AI proofread of every page; no owner review of close calls yet; no full human proofread
+repository: https://github.com/lds-restoration-documents/1837-pratt-goodson-kirtland-book-of-mormon
+version: "{version}"
+---
+
+"""
+
+
+def build_version(pages_dir):
+    """Latest release tag, build date and the short hash of the last commit that touched the page files,
+    e.g. 'v1.0.0 (2026-10-31, 88a940d)'. '+modified' follows the tag when the page files differ from the
+    tagged release; '+dirty' is added to the hash for uncommitted page edits.
+    Without any tag: '2026-10-31+88a940d'."""
+    def git(*a):
+        return subprocess.run(['git', '-C', str(ROOT), *a], capture_output=True, text=True, check=True).stdout.strip()
+    today = datetime.date.today().isoformat()
+    try:
+        h = git('log', '-1', '--format=%h', '--', str(pages_dir)) or 'uncommitted'
+        dirty = bool(git('status', '--porcelain', '--', str(pages_dir)))
+        if dirty:
+            h += '+dirty'
+        try:
+            tag = git('describe', '--tags', '--abbrev=0')
+        except subprocess.CalledProcessError:
+            return f'{today}+{h}'
+        if dirty or git('diff', '--name-only', tag, '--', str(pages_dir)):
+            tag += '+modified'
+        return f'{tag} ({today}, {h})'
+    except (OSError, subprocess.CalledProcessError):
+        return f'{today}+unknown'
 
 
 def clean_page(t):
@@ -73,6 +113,7 @@ def main():
 
     files = sorted(glob.glob(str(Path(args.pages_dir) / 'page-*.md')))
     text, joined = compile_pages(files)
+    text = FRONTMATTER.format(version=build_version(args.pages_dir)) + text
     Path(args.out).write_text(text, encoding='utf-8')
     print(f'{len(files)} pages, {joined} joins, {len(text.split())} words -> {args.out}')
 

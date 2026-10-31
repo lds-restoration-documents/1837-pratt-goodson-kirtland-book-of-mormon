@@ -1,3 +1,15 @@
+---
+title: The Book of Mormon (Kirtland, 1837)
+translator: Joseph Smith Jr.
+publisher: O. Cowdery & Co. for P. P. Pratt and J. Goodson
+place: Kirtland, Ohio
+publication_year: 1837
+source_scan: https://archive.org/details/BookOfMormon1837KirtlandEdition
+transcription_method: AI-assisted transcription from page images (Claude); one audit and one blind AI proofread of every page; no owner review of close calls yet; no full human proofread
+repository: https://github.com/lds-restoration-documents/1837-pratt-goodson-kirtland-book-of-mormon
+version: "2026-10-31+067dee3"
+---
+
 <!-- page 001 -->
 
 THE
