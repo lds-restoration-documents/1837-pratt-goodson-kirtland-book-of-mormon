@@ -14,7 +14,7 @@ A text corpus, not software: AI-assisted transcriptions of the 1837 second editi
 
 - `book-of-mormon-1837.md`: all pages, main text only, joined into one file.
   It starts with generated YAML frontmatter (title, publisher, source scan, method, repository, version); edit the `FRONTMATTER` template in `tools/compile_markdown.py`, never the generated file. Version = latest git tag (none yet), build date, hash of the last commit touching the page files (`+modified`/`+dirty` when they differ). Any script that reads the `.md` must call `strip_frontmatter()` from `tools/frontmatter.py` first. Update `transcription_method` there when review status changes.
-- `book-of-mormon-1837.txt`: the same, with all Markdown removed.
+- `book-of-mormon-1837.txt`: the same, with all Markdown removed. It starts with a single generated `# …` header line (title, status, repository URL) from `txt_header()` in `tools/frontmatter.py`; the sparse file gets the same line with `sparse, `. Edit the helper, never the generated files, and update its status wording when review status changes.
 - `printer-typos.md`, `uncertain-log.md`: generated catalogs of the printer's slips and of every `uncertain`/layout comment, by image.
 - `book-of-mormon-1837-sparse.txt`: Book of Mormon text only (title page, books, chapters, paragraphs; image ranges in `PAGE_RANGES` of `tools/make_sparse.py`: image 1 and images 5–617).
 - `transcription-notes.md`: method, conventions, residual-risk notes, and a per-page log of every `uncertain` / `[illegible]` / layout comment.

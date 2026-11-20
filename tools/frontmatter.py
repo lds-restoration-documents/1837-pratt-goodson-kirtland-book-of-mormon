@@ -8,3 +8,12 @@ def strip_frontmatter(t):
         if end != -1:
             return t[end + 5:].lstrip('\n')
     return t
+
+
+REPO = 'https://github.com/lds-restoration-documents/1837-pratt-goodson-kirtland-book-of-mormon'
+
+
+def txt_header(sparse=False):
+    """The single header line (plus blank line) at the top of the .txt outputs."""
+    kind = 'sparse, ' if sparse else ''
+    return f'# The Book of Mormon, Kirtland 1837 edition ({kind}AI draft, no full human proofread) - {REPO}\n\n'

@@ -224,4 +224,4 @@ Unresolved close calls (the proofreader read the mark differently from the file 
 
 ## 7. Compiled text
 
-Built by `tools/compile_markdown.py`, `make_plaintext.py` and `make_sparse.py`. Lesson from the 1830 project: the compile script must drop the `---` rule above a `Footer:` line, or it gets glued to the next page's first word; this is already handled in the script.
+Built by `tools/compile_markdown.py`, `make_plaintext.py` and `make_sparse.py`. Lesson from the 1830 project: the compile script must drop the `---` rule above a `Footer:` line, or it gets glued to the next page's first word; this is already handled in the script. The two `.txt` outputs begin with one generated header line (`txt_header()` in `tools/frontmatter.py`), like the sibling 1829 project; scripts that read them must skip it.
